@@ -1,7 +1,7 @@
 ## Google Sheets Integration Demo
 video: https://youtu.be/gP6H0u81bHI?si=5MpH9JKEcvfPOMrL
 thumbnail: https://i3.ytimg.com/vi/gP6H0u81bH/maxresdefault.jpg
-duration: 0:59
+duration: 2:15
 description: This video demonstrates how FindMyClient uses the requested Google OAuth permissions within its Google Sheets integration.
 ---
 ## Automating Leads with n8n
