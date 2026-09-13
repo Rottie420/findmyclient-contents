@@ -12,7 +12,7 @@ footer: Use template →
 ---
 ## MCP Server
 url: https://mcp.findmyclient.org/mcp
-icon: mcp
+icon: rest
 description: Connect FindMyClient to MCP-compatible AI tools and let agents search for leads directly through the FindMyClient API. Experimental and actively being improved.
 footer: Try MCP Server →
 ---
