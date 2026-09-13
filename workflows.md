@@ -10,6 +10,12 @@ icon: sheets
 description: Find businesses directly from Google Sheets and automatically add verified leads and emails.
 footer: Use template →
 ---
+## MCP Server
+url: https://mcp.findmyclient.org/mcp
+icon: mcp
+description: Connect FindMyClient to MCP-compatible AI tools and let agents search for leads directly through the FindMyClient API. Experimental and actively being improved.
+footer: Try MCP Server →
+---
 ## Make
 icon: make
 description: Connect FindMyClient with thousands of apps and automate your lead generation workflow.
