@@ -1,3 +1,8 @@
+## New: Video Tutorial 🎬
+date: 2026-09-14
+type: New Tutorial
+body: Learn how to connect FindMyClient MCP to Claude and search for B2B leads using simple natural-language prompts. Quick setup guide from start to finish.
+
 ## New: Experimental MCP Server is live 🔥
 date: 2026-09-13
 type: New Feature
