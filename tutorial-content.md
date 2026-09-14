@@ -15,3 +15,9 @@ video: https://youtu.be/nJhuxKuH4HY?si=Crq6Yms7O2O4A_oq
 thumbnail: https://i3.ytimg.com/vi/nJhuxKuH4HY/hqdefault.jpg
 duration: 2:08
 description: This video demonstrates how to test the FindMyClient API endpoint and verify that it is working correctly.
+---
+## Connecting to MCP Guide
+video: https://youtu.be/SKP2LLw9Ti0?si=EJWasG5CHX5r1Ha4
+thumbnail: https://i3.ytimg.com/vi/SKP2LLw9Ti0/hqdefault.jpg
+duration: 3:26
+description: You can ask Claude to search for businesses and discover emails directly from your conversation.
