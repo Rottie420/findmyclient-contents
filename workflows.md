@@ -11,7 +11,7 @@ description: Find businesses directly from Google Sheets and automatically add v
 footer: Use template →
 ---
 ## MCP Server
-url: https://mcp.findmyclient.org/mcp
+url: https://github.com/Rottie420/findmyclient-mcp
 icon: rest
 description: Connect FindMyClient to MCP-compatible AI tools and let agents search for leads directly through the FindMyClient API. Experimental and actively being improved.
 footer: Try MCP Server →
